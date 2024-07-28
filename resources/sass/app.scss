@@ -1,0 +1,9 @@
+// resources/sass/app.scss
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+// You can add your custom styles here
+body {
+  font-family: 'Nunito', sans-serif;
+}
